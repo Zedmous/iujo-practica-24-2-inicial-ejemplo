@@ -3,10 +3,14 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "node app"
+    "start": "node app",
+    "comp":"node app && node clases/estadistica"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
 }
