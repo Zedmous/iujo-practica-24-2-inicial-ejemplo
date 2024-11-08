@@ -4,7 +4,8 @@
   "main": "index.js",
   "scripts": {
     "start": "node app",
-    "comp":"node app && node clases/estadistica"
+    "comp":"node app && node clases/estadistica",
+    "fact":"node ejecucionF"
   },
   "keywords": [],
   "author": "",
